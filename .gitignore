@@ -1,0 +1,88 @@
+# =========================
+# Sistema Operacional
+# =========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =========================
+# IDEs e Editores
+# =========================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# Arquivos Temporários
+# =========================
+
+tmp/
+temp/
+
+# =========================
+# Arquivos Compactados
+# =========================
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# =========================
+# Credenciais e Configurações
+# =========================
+
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# =========================
+# Dependências (caso existam)
+# =========================
+
+node_modules/
+vendor/
+
+# =========================
+# Arquivos de Build
+# =========================
+
+dist/
+build/
+out/
+coverage/
+
+# =========================
+# Python (caso existam scripts)
+# =========================
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# =========================
+# Certificados Exportados Temporários
+# =========================
+
+*.tmp.pdf
+*.bak.pdf
